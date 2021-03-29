@@ -1,0 +1,8 @@
+{
+  "prefix": "d.",
+  "mongodbUrl": "mongodb+srv://delico:VGsKf6QrFgyc2TSK@cluster0.fpy4v.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "id": "818284557521911818", 
+  "clientSecret": "TuoqTIU07ssA4M_MByzN8S5BZY-3EbBn",
+  "domain": "http://aeiou.luckymythic.repl.co",
+  "port": 8080
+}
